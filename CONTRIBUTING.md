@@ -88,13 +88,3 @@ Developed by
 CODE4UTECH CONSULTANCY PVT. LTD.
 
 https://auralock.in
-
-## AURALOCK Ecosystem
-
-This project is part of the AURALOCK platform.
-
-AURALOCK S1 – Smart access control for gyms, libraries, and membership spaces with cloud dashboard, mobile access, professional installation, and lifetime support.
-
-https://auralock.in
-
-AURALOCK S1 – Cloud-powered access control with membership automation for gyms, libraries, and managed facilities.
